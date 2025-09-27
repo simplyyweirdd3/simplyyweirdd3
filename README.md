@@ -3,7 +3,7 @@
 💻 Enthusiastic Student passionate about Programming <br/>
 📖 I love writing Anecdotes, and Stories, sometimes Poetry too. <br/>
 ☕ Caffeine Addict - Guilty as Charged <br/>
-📸 Love capturing bits and pieces of life [www.instagram.com/ruman.camera.roll ](https://www.instagram.com/ruman.camera.roll/)
+📸 Love capturing bits and pieces of life [www.instagram.com/ruman.camera.roll ](https://www.instagram.com/namelesssight/)
 
 
 

@@ -1,21 +1,44 @@
-## Hi, I'm Ruman ✨
+# Hey, I'm Ruman 👋
 
-💻 Enthusiastic Student passionate about Programming <br/>
-📖 I love writing Anecdotes, and Stories, sometimes Poetry too. <br/>
-☕ Caffeine Addict - Guilty as Charged <br/>
-📸 Love capturing bits and pieces of life [www.instagram.com/namelesssight ](https://www.instagram.com/namelesssight/)
+MS in Data Science student at Seattle University with a background in Electronics & Communication Engineering. I build things at the intersection of code, healthcare, and curiosity.
 
+I've worked across the full stack of a data science workflow: cleaning messy datasets, building predictive models, writing SQL pipelines, and deploying ML experiments. Currently deep into tree-based methods, big data systems (HDFS/Hadoop), and figuring out how to make AI actually useful in healthcare.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/namelesssight) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruman-sidhu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rumannn_03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ruman_Sidhu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rumansidhu2581@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=simplyyweirdd3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=simplyyweirdd3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=simplyyweirdd3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+When I'm not writing Python or R, I'm probably writing fiction. Published author with a novella on Amazon Kindle.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=simplyyweirdd3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### What I work with
+
+**Languages:** Python, R, SQL, Java  
+**Data & ML:** scikit-learn, tidyverse, ggplot2, pandas, NumPy, matplotlib  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Big Data:** Hadoop, HDFS, MapReduce, AWS  
+**Tools:** Jupyter, RStudio, Git, LaTeX, R Markdown  
+
+---
+
+### Featured Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [Bike Sharing Demand Prediction](link) | Predicted daily bike rentals using OLS, Ridge, Lasso, PCR, PLS, and GAM | R, tidyverse, caret |
+| [Image Classification](link) | Built and evaluated classifiers on real-world image data | Python, scikit-learn |
+| [Hospital Appointment System](link) | Designed a relational database with synthetic data and complex queries | SQL, PostgreSQL |
+| [Seattle Weather Analysis](link) | Exploratory analysis and predictive modeling on local weather patterns | Python, pandas |
+| [ETL Pipeline](link) | End-to-end extract, transform, load pipeline on Netflix data | SQL, Python |
+| [Decision Trees (SML II)](link) | Implemented and analyzed tree-based methods from scratch | Python, scikit-learn |
+| [Data Translator](link) | Final capstone project for Programming I | Python |
+| [Applied Stat Inference Project 1](link) | Statistical analysis with hypothesis testing and confidence intervals | R |
+| [Applied Stat Inference Project 2](link) | Regression and categorical data analysis | R |
+| [Education & Healthcare Access](link) | Analyzed school performance and healthcare access patterns | Python, Jupyter |
+| [MongoDB Data Management](link) | NoSQL queries and document-based data modeling | MongoDB |
+| [HDFS & MapReduce](link) | Distributed file system exercises and Java MapReduce programs | Hadoop, Java |
+
+---
+
+### Get in touch
+
+📧 rumansidhu2581@gmail.com  
+🌐 [Portfolio Website](https://knowmoreaboutme-rumansidhu.netlify.app/)  
+📚 [The Mist on Amazon Kindle](https://www.amazon.in/dp/B0CCMNY31W?ref=cm_sw_r_ffobk_cp_ud_dp_0RMYG51626AR74HDTAQW&ref_=cm_sw_r_ffobk_cp_ud_dp_0RMYG51626AR74HDTAQW&social_share=cm_sw_r_ffobk_cp_ud_dp_0RMYG51626AR74HDTAQW&bestFormat=true)

@@ -9,10 +9,15 @@ When I'm not writing Python or R, I'm usually writing fiction. Published author 
 ## What I work with
 
 **Languages:** Python, R, SQL
+
 **Data & ML:** scikit-learn, PyTorch, tidyverse, ggplot2, pandas, NumPy, matplotlib
+
 **Databases:** MongoDB, PostgreSQL, MySQL
+
 **Big Data:** Hadoop, HDFS, MapReduce, Spark, AWS
+
 **Tools:** Jupyter, RStudio, Git, LaTeX, R Markdown
+
 
 ## Featured Projects
 

@@ -23,10 +23,10 @@ When I'm not writing Python or R, I'm usually writing fiction. Published author 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Breast Cancer Gene Expression Classification]((https://github.com/simplyyweirdd3/DATA5322-CancerGenomeAtlas-Analysis)) | Classifies tumor vs. normal tissue from BC-TCGA gene expression data using neural networks, SVM, and logistic regression | Python, scikit-learn, PyTorch |
-| [AI Fraud Detective]((https://github.com/simplyyweirdd3/AI-Fraud-Detective)) | Graph neural network for Bitcoin fraud detection with an LLM reporting layer. Nearly doubles baseline F1 (0.32 to 0.58) and cuts false alarms sharply. | Python, PyTorch Geometric, LLM |
-| [Brain Tumor MRI Classification]((https://github.com/simplyyweirdd3/brain-tumor-mri-classification)) | Deep learning model classifying brain MRI scans into four tumor categories using ResNet34 and Grad-CAM explainability | Python, PyTorch |
-| [Predicting Health Outcomes with ML]((https://github.com/simplyyweirdd3/data5100_project)) | Predicted diabetes, cardiovascular disease, and stroke risk from lifestyle factors | Python, scikit-learn |
+| [[Breast Cancer Gene Expression Classification](https://github.com/simplyyweirdd3/DATA5322-CancerGenomeAtlas-Analysis)| Classifies tumor vs. normal tissue from BC-TCGA gene expression data using neural networks, SVM, and logistic regression | Python, scikit-learn, PyTorch |
+| [AI Fraud Detective](https://github.com/simplyyweirdd3/AI-Fraud-Detective) | Graph neural network for Bitcoin fraud detection with an LLM reporting layer. Nearly doubles baseline F1 (0.32 to 0.58) and cuts false alarms sharply. | Python, PyTorch Geometric, LLM |
+| [Brain Tumor MRI Classification](https://github.com/simplyyweirdd3/brain-tumor-mri-classification) | Deep learning model classifying brain MRI scans into four tumor categories using ResNet34 and Grad-CAM explainability | Python, PyTorch |
+| [Predicting Health Outcomes with ML](https://github.com/simplyyweirdd3/data5100_project) | Predicted diabetes, cardiovascular disease, and stroke risk from lifestyle factors | Python, scikit-learn |
 | [Bird Call CNN Classifier](https://github.com/simplyyweirdd3/DATA5322-PracticalHW3) | CNN that classifies bird species from audio spectrograms | Python, PyTorch |
 | [FX Options Risk Analyzer](https://github.com/simplyyweirdd3/fx-options-risk-analyzer) | European FX option pricing and worst-case portfolio risk simulation using Garman-Kohlhagen | Python, scipy, pandas |
 | [Bike Sharing Demand Prediction](https://github.com/simplyyweirdd3/bike-sharing-demand-prediction) | Ridge, Lasso, PCR, PLS, and GAM models for daily bike rental demand with 10-fold cross-validation | R, glmnet, mgcv |

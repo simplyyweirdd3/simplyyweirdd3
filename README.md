@@ -1,4 +1,4 @@
-# Hey, I'm Ruman 👋
+# Hey, I'm Ruman Sidhu👋
 
 MSc Data Science student at the University of Bath with a background in Electronics & Communication Engineering. Before Bath, I completed the first year of the MS in Data Science at Seattle University. I build things at the intersection of code, healthcare, and curiosity, with a focus on making AI actually useful in clinical and oncology settings.
 

@@ -37,5 +37,7 @@ When I'm not writing Python or R, I'm usually writing fiction. Published author 
 ## Get in touch
 
 📧 rumansidhu24@gmail.com
+
 💼 [LinkedIn](https://www.linkedin.com/in/rumannn03)
+
 🌐 [rumansidhu.com](https://rumansidhu.com)

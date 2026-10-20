@@ -23,6 +23,7 @@ When I'm not writing Python or R, I'm usually writing fiction. Published author 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Northlight](https://northlight-pediatric.lovable.app) | A support app for children with cancer and the families around them, with modes for kids, caregivers, clinical staff and medical students. It's public and free to explore: [try Northlight](https://northlight-pediatric.lovable.app) | Lovable AI |
 | [Oncology Navigator](https://github.com/simplyyweirdd3/oncology-navigator) | Finds currently recruiting clinical trials for a given gene and condition, ranked with a graph model. [Try the live app](https://oncology-navigator-ruman-sidhu.streamlit.app/) | Python, GraphSAGE, Streamlit |
 | [Brain Tumor MRI Classification](https://github.com/simplyyweirdd3/brain-tumor-mri-classification) | Deep learning model classifying brain MRI scans into four tumor categories using ResNet34 and Grad-CAM explainability | Python, PyTorch |
 | [Breast Cancer Gene Expression Classification](https://github.com/simplyyweirdd3/DATA5322-CancerGenomeAtlas-Analysis) | Classifies tumor vs. normal tissue from BC-TCGA gene expression data using neural networks, SVM, and logistic regression | Python, scikit-learn, PyTorch |
@@ -36,6 +37,6 @@ When I'm not writing Python or R, I'm usually writing fiction. Published author 
 
 ## Get in touch
 
-📧 rumansidhu2581@gmail.com
-
+📧 rumansidhu24@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/rumannn03)
+🌐 [rumansidhu.com](https://rumansidhu.com)
